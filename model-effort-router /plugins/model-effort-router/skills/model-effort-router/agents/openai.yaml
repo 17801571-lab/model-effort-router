@@ -1,0 +1,4 @@
+interface:
+  display_name: "Model & Effort Router"
+  short_description: "Match tasks to a model and reasoning effort"
+  default_prompt: "Use $model-effort-router to choose a model and reasoning effort for my task."
