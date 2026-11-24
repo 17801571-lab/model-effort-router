@@ -1,0 +1,17 @@
+{
+  "name": "model-effort-router-marketplace",
+  "plugins": [
+    {
+      "name": "model-effort-router",
+      "source": {
+        "source": "local",
+        "path": "./plugins/model-effort-router"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
