@@ -1,8 +1,0 @@
-{
-  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
-  "name": "model-effort-router",
-  "version": "0.5.0",
-  "description": "Choose a model and reasoning effort for a task, with approvals for meaningful changes.",
-  "license": "MIT",
-  "keywords": ["model-selection", "reasoning-effort", "usage"]
-}
